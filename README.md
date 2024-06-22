@@ -2,7 +2,7 @@
 
 portfolio: https://huzaifatahir.netlify.app/
 
-🌐 Expertise: 2+ years in React.js & Node.js frameworks
+🌐 Expertise: 3+ years in React.js & Node.js frameworks
 🖥️ Responsive Design: Custom web solutions tailored to client needs
 🎨 Design Aesthetics: Focus on visually appealing and user-friendly designs
 🚀 Streamlined Coding: Efficient coding practices for optimal performance
