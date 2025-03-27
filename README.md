@@ -2,7 +2,7 @@
 
 portfolio: https://huzaifatahir.netlify.app/
 
-🌐 Expertise: 5+ years in React.js & Node.js frameworks
+🌐 Expertise: 5+ years in React.js & Nest.js & python frameworks
 
 
 # 💻 Tech Stack:
