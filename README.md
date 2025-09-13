@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-portfolio: https://huzaifatahir.netlify.app/
-
 🌐 Expertise: 6+ years of experience in React.js & Nest.js & python frameworks
 
 
